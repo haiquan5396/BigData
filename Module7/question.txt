@@ -1,0 +1,7 @@
+a. Find all the tweets by user
+b. Find how many tweets each user has
+c. Find all the persons mentioned on tweets
+d. Count how many times each person is mentioned
+e. Find all the hashtags mentioned on a tweet
+f. Count how many times each hashtag is mentioned
+
